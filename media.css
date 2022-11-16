@@ -17,7 +17,7 @@
         padding-top: 0px;
     }
     .demo{
-        height: 400px;
+        height: 300px;
         box-shadow: 0 0 0;
     }
     .img{
@@ -27,7 +27,7 @@
         align-items: center;
     }
     .sub{
-        margin-top: 50px;
+        margin-top: 20px;
         margin-left: 0;
     }
     .text{
