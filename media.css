@@ -1,0 +1,42 @@
+@media screen and (max-width: 768px) {
+    .navbar{
+        height: 100px;
+    }
+    .logo{
+        width: 100px;
+        margin-right: 20px;
+    }
+    .nav{
+        margin-left: 20px;
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    .container{
+        display: contents;
+        margin-left: 0;
+        padding-top: 0px;
+    }
+    .demo{
+        height: 400px;
+        box-shadow: 0 0 0;
+    }
+    .img{
+        padding-top: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .sub{
+        margin-top: 50px;
+        margin-left: 0;
+    }
+    .text{
+        font-size: 90px;
+        text-align: center;
+        text-shadow: 3px 3px#bac94a;
+    }
+    .subtext{
+        font-size: 30px;
+        text-shadow: 2px 2px#bac94a;
+    }
+}
